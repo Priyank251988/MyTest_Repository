@@ -4,7 +4,9 @@
   <artifactId>Test1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-  <dependency2></dependency2>
+
+  <dependency1></dependency1>
+
   </dependencies>
   
 </project>
